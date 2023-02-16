@@ -1,0 +1,1 @@
+java -cp target/Assignment04-1.0-SNAPSHOT.jar:target/dependency/commons-numbers-primes-1.1.jar is.hi.eik20.hbv202g.ass4.App

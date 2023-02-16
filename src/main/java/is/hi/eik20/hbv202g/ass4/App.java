@@ -1,8 +1,5 @@
 package is.hi.eik20.hbv202g.ass4;
 
-/**
- * Hello world!
- */
 
 import static org.apache.commons.numbers.primes.Primes.nextPrime;
 
